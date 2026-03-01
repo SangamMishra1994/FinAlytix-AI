@@ -189,5 +189,5 @@ uvicorn app.main:app --reload
 
 # 👨‍💻 Author
 
-    Sangam Kumar
+    Sangam Kumar (Python Developer)
     Software Engineer | Backend & Microservices Developer
